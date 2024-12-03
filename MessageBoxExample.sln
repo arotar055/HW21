@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.1.32228.430
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Mouse messages", "Mouse messages\Mouse messages.csproj", "{720797BA-83BE-4C33-9865-A001803381CC}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MovingForm", "MovingForm\MovingForm.csproj", "{CC63ABCA-421E-44C0-9767-30C069B43443}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Guess", "Guess\Guess.csproj", "{676A5E50-F65A-4E79-8329-48EECA556E92}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{720797BA-83BE-4C33-9865-A001803381CC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{720797BA-83BE-4C33-9865-A001803381CC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{720797BA-83BE-4C33-9865-A001803381CC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{720797BA-83BE-4C33-9865-A001803381CC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CC63ABCA-421E-44C0-9767-30C069B43443}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CC63ABCA-421E-44C0-9767-30C069B43443}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CC63ABCA-421E-44C0-9767-30C069B43443}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CC63ABCA-421E-44C0-9767-30C069B43443}.Release|Any CPU.Build.0 = Release|Any CPU
+		{676A5E50-F65A-4E79-8329-48EECA556E92}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{676A5E50-F65A-4E79-8329-48EECA556E92}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{676A5E50-F65A-4E79-8329-48EECA556E92}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{676A5E50-F65A-4E79-8329-48EECA556E92}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {035D32DA-D4A0-4130-8949-B4657D8E681B}
+	EndGlobalSection
+EndGlobal
